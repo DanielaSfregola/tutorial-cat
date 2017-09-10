@@ -1,4 +1,4 @@
-package monoid
+package com.danielasfregola.tutorial.cat.monoid
 
 trait Monoid[A] {
 
