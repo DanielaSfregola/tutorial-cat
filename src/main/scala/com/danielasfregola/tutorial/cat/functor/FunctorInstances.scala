@@ -4,8 +4,8 @@ import com.danielasfregola.tutorial.cat._
 
 object FunctorInstances {
 
-  implicit def maybeFunctor: Functor[Maybe] = ???
+  implicit val maybeFunctor: Functor[Maybe] = ???
 
-  implicit def zeroOrMoreFunctor: Functor[ZeroOrMore] = ???
+  implicit val zeroOrMoreFunctor: Functor[ZeroOrMore] = ???
 
 }
