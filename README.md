@@ -43,3 +43,7 @@ Code for the `Pragmatic Introduction to Category Theory` workshop at [ScalaWorld
 - Define a monad for `ZeroOrMore`
 
 `sbt 'testOnly *Monad*'`
+
+
+## Solutions
+Solution of the exercises are available [here](https://gist.github.com/DanielaSfregola/ddf48f6c5638f6284b563798c55d5ebd)

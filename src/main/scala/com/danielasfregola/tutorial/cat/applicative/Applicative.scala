@@ -2,6 +2,8 @@ package com.danielasfregola.tutorial.cat.applicative
 
 import com.danielasfregola.tutorial.cat.functor.Functor
 
+// See solution at https://gist.github.com/DanielaSfregola/ddf48f6c5638f6284b563798c55d5ebd
+
 trait Applicative[Box[_]] extends Functor[Box] {
 
   def pure[A](a: A): Box[A]
