@@ -1,6 +1,8 @@
 # tutorial-cat
 
-Code for the `Pragmatic Introduction to Category Theory` workshop at [ScalaWorld 2017](https://scala.world)
+Code for the `Pragmatic Introduction to Category Theory` workshop at [ScalaWorld 2017](https://scala.world).
+
+Slides availalble [here](https://speakerdeck.com/danielasfregola/scalaworld-2017-a-pragmatic-introduction-to-category-theory)...video coming soon!
 
 ## Installation
 - clone the repo
