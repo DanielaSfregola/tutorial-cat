@@ -2,7 +2,7 @@
 
 Code for the `Pragmatic Introduction to Category Theory`.
 
-Slides availalble [here](https://speakerdeck.com/danielasfregola/scalaworld-2017-a-pragmatic-introduction-to-category-theory)...video coming soon!
+[Slides](https://speakerdeck.com/danielasfregola/scalaworld-2017-a-pragmatic-introduction-to-category-theory) and [video](https://www.youtube.com/watch?v=Ss149MsZluI) are now available online!
 
 ## Installation
 - clone the repo
